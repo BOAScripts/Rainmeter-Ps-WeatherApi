@@ -26,5 +26,5 @@ A Rainmeter skin to display the weather using Powershell 7 and weatherapi.com
 
 |Error|Reason|
 |--|--|
-|Only `dummy` data shown |`$apiKey` or `$locGeoCoords` not correct|
+|Only `dummy` data shown |`$apiKey` or `$locGeoCoords` not correct in `@Resources/scripts/ApiWeather.ps1`|
 |No icons in front of values |Caskaydia Cove Nerd Font not installed [How-to install fonts](https://www.howtogeek.com/787939/how-to-install-fonts-on-windows-10/)|
